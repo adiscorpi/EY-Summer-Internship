@@ -1,0 +1,94 @@
+﻿text,cleaned_text,compound,positive,negative,neutral,vader_sentiment
+" (Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) Hi, thank you for calling Questron Tech Support.",transcribed turboscribeai go unlimited remove message hi thank calling questron tech support,0.6369,0.342,0.0,0.658,Positive
+ This is Claire.,claire,0.0,0.0,0.0,1.0,Neutral
+ May I have your name and product serial,may name product serial,0.0,0.0,0.0,1.0,Neutral
+" number, please?",number please,0.3818,1.0,0.0,0.0,Positive
+" Name, serial number. ",name serial number,0.0772,0.394,0.0,0.606,Positive
+ My phone will turn on and you want,phone turn want,0.0772,0.394,0.0,0.606,Positive
+ my name?,name,0.0,0.0,0.0,1.0,Neutral
+ It's Tabitha Ratched.,tabitha ratched,0.0,0.0,0.0,1.0,Neutral
+ The serial number is...,serial number,0.0772,0.565,0.0,0.435,Positive
+ Hold on.,hold,0.0,0.0,0.0,1.0,Neutral
+" Now, can we fix this thing?",fix thing,0.0,0.0,0.0,1.0,Neutral
+" Thank you for providing the information, Tabitha. ",thank providing information tabitha,0.3612,0.455,0.0,0.545,Positive
+ I'm sorry to hear about the issue with,im sorry hear issue,-0.0772,0.0,0.302,0.698,Negative
+ your phone.,phone,0.0,0.0,0.0,1.0,Neutral
+ Can you tell me the make and model?,tell make model,0.0,0.0,0.0,1.0,Neutral
+ It's Versa Spectra X25.,versa spectra x,0.0,0.0,0.0,1.0,Neutral
+ This is ridiculous. ,ridiculous,-0.3612,0.0,1.0,0.0,Negative
+ I just bought it last week and it,bought last week,0.0,0.0,0.0,1.0,Neutral
+ won't even turn on.,wont even turn,0.0,0.0,0.0,1.0,Neutral
+ I apologise for the inconvenience.,apologise inconvenience,0.0258,0.51,0.49,0.0,Neutral
+ Have you tried charging the phone?,tried charging phone,0.0,0.0,0.0,1.0,Neutral
+" Of course, I've tried charging it. ",course ive tried charging,0.0,0.0,0.0,1.0,Neutral
+ Why would I call if I hadn't?,would call hadnt,0.0,0.0,0.0,1.0,Neutral
+ You think I don't know how to charge,think dont know charge,0.0,0.0,0.0,1.0,Neutral
+ a phone?,phone,0.0,0.0,0.0,1.0,Neutral
+" I'm just following the troubleshooting steps, Tabitha.",im following troubleshooting steps tabitha,0.1779,0.298,0.0,0.702,Positive
+ Could you please let it charge for a,could please let charge,0.3182,0.434,0.0,0.566,Positive
+ few more minutes while we continue?,minutes continue,0.0,0.0,0.0,1.0,Neutral
+" Sure, why not?",sure,0.3182,1.0,0.0,0.0,Positive
+ It's not like I have anything better to,like anything better,0.6597,0.844,0.0,0.156,Positive
+ Thank you. ,thank,0.3612,1.0,0.0,0.0,Positive
+" While it's charging, could you please tell me",charging could please tell,0.3182,0.434,0.0,0.566,Positive
+ if you've tried any other steps to resolve,youve tried steps resolve,0.3818,0.464,0.0,0.536,Positive
+ the issue?,issue,0.0,0.0,0.0,1.0,Neutral
+" Look, I've tried everything I know and nothing",look ive tried everything know nothing,0.0,0.0,0.0,1.0,Neutral
+ is working.,working,0.0,0.0,0.0,1.0,Neutral
+ That's why I called you.,thats called,0.0,0.0,0.0,1.0,Neutral
+ Can you actually help me or not?,actually help,0.4019,0.73,0.0,0.27,Positive
+ I'm here to assist you. ,im assist,0.0,0.0,0.0,1.0,Neutral
+ Once the phone has been charged for two,phone charged two,-0.2023,0.0,0.474,0.526,Negative
+" minutes, we will attempt to turn it on",minutes attempt turn,0.0,0.0,0.0,1.0,Neutral
+ All right?,right,0.0,0.0,0.0,1.0,Neutral
+ Fine.,fine,0.2023,1.0,0.0,0.0,Positive
+ Let's get this over with. ,lets get,0.0,0.0,0.0,1.0,Neutral
+" Two minutes, you say?",two minutes say,0.0,0.0,0.0,1.0,Neutral
+" Yes, two minutes.",yes two minutes,0.4019,0.574,0.0,0.426,Positive
+" Okay, it's been two minutes.",okay two minutes,0.2263,0.487,0.0,0.513,Positive
+" Now, please attempt to turn on the phone",please attempt turn phone,0.3182,0.434,0.0,0.566,Positive
+ by pressing on the power button for about,pressing power button,0.0,0.0,0.0,1.0,Neutral
+ five seconds. ,five seconds,0.0,0.0,0.0,1.0,Neutral
+ Okay.,okay,0.2263,1.0,0.0,0.0,Positive
+ It's still not working.,still working,0.0,0.0,0.0,1.0,Neutral
+ I've been charging it all this time and,ive charging time,0.0,0.0,0.0,1.0,Neutral
+ nothing has changed. ,nothing changed,0.0,0.0,0.0,1.0,Neutral
+ What makes you think it'll change anything now?,makes think itll change anything,0.0,0.0,0.0,1.0,Neutral
+ I'm sorry that the solution didn't work.,im sorry solution didnt work,0.25,0.348,0.197,0.455,Positive
+ Please try holding down the power button along,please try holding power button along,0.3182,0.315,0.0,0.685,Positive
+ with the volume down button for about five,volume button five,0.0,0.0,0.0,1.0,Neutral
+ to ten seconds.,ten seconds,0.0,0.0,0.0,1.0,Neutral
+ This is to perform a hard reset. ,perform hard reset,-0.1027,0.0,0.412,0.588,Negative
+" All right, I'm trying that now.",right im trying,0.0,0.0,0.0,1.0,Neutral
+ Thank you.,thank,0.3612,1.0,0.0,0.0,Positive
+ And still nothing. ,still nothing,0.0,0.0,0.0,1.0,Neutral
+ This is useless.,useless,-0.4215,0.0,1.0,0.0,Negative
+ What else can you suggest that works?,else suggest works,0.0,0.0,0.0,1.0,Neutral
+" In that case, the phone may need to",case phone may need,0.0,0.0,0.0,1.0,Neutral
+ be serviced.,serviced,0.0,0.0,0.0,1.0,Neutral
+ I suggest that you take it to the,suggest take,0.0,0.0,0.0,1.0,Neutral
+ nearest Questron service centre for an evaluation. ,nearest questron service centre evaluation,0.0,0.0,0.0,1.0,Neutral
+" Oh, wonderful.",oh wonderful,0.5719,0.787,0.0,0.213,Positive
+ So I just wasted all this time for,wasted time,-0.4939,0.0,0.762,0.238,Negative
+ nothing and now I have to waste more,nothing waste,0.3252,0.7,0.0,0.3,Positive
+ time going to a service centre.,time going service centre,0.0,0.0,0.0,1.0,Neutral
+ Is that what you're saying?,youre saying,0.0,0.0,0.0,1.0,Neutral
+" I apologise for the inconvenience, Tabitha. ",apologise inconvenience tabitha,0.0258,0.426,0.41,0.164,Neutral
+" I have followed all the standard troubleshooting steps,",followed standard troubleshooting steps,0.1779,0.362,0.0,0.638,Positive
+ but at this point only our service centre,point service centre,0.0,0.0,0.0,1.0,Neutral
+ will be able to provide further assistance.,able provide assistance,0.0,0.0,0.0,1.0,Neutral
+ Great.,great,0.6249,1.0,0.0,0.0,Positive
+ I wish I had known that from the,wish known,0.4019,0.73,0.0,0.27,Positive
+ beginning. ,beginning,0.0,0.0,0.0,1.0,Neutral
+" Thanks for nothing, I guess.",thanks nothing guess,0.4404,0.592,0.0,0.408,Positive
+ You're welcome.,youre welcome,0.4588,0.75,0.0,0.25,Positive
+ Is there anything else that I can help,anything else help,0.4019,0.574,0.0,0.426,Positive
+ you with today?,today,0.0,0.0,0.0,1.0,Neutral
+ That's quite enough.,thats quite enough,0.0,0.0,0.0,1.0,Neutral
+ Thank you very much.,thank much,0.3612,0.714,0.0,0.286,Positive
+" All right, enough for today. ",right enough today,0.0,0.0,0.0,1.0,Neutral
+ All right.,right,0.0,0.0,0.0,1.0,Neutral
+ Thank you for calling Questron tech support.,thank calling questron tech support,0.6369,0.634,0.0,0.366,Positive
+ Have a good day. ,good day,0.4404,0.744,0.0,0.256,Positive
+" Yeah, right.",yeah right,0.296,0.688,0.0,0.312,Positive
+ Okay. ,okay,0.2263,1.0,0.0,0.0,Positive

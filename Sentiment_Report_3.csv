@@ -1,0 +1,172 @@
+﻿cleaned_text,compound,positive,negative,neutral,vader_sentiment,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+product delivery delay,-0.3182,0,0.535,0.465,Negative,Audio 3
+call centre agent customer,0,0,0,1,Neutral,Audio 3
+thank calling single step customer service,0.3612,0.333,0,0.667,Positive,Audio 3
+name carol,0,0,0,1,Neutral,Audio 3
+assist today,0,0,0,1,Neutral,Audio 3
+finally,0,0,0,1,Neutral,Audio 3
+took long enough answer,0,0,0,1,Neutral,Audio 3
+ordered package,0,0,0,1,Neutral,Audio 3
+yet,0,0,0,1,Neutral,Audio 3
+hell problem,-0.8074,0,1,0,Negative,Audio 3
+people,0,0,0,1,Neutral,Audio 3
+selected expedited delivery,0,0,0,1,Neutral,Audio 3
+im sorry hear delay,-0.3818,0,0.643,0.357,Negative,Audio 3
+package,0,0,0,1,Neutral,Audio 3
+ill best help,0.6249,0.711,0.289,0,Positive,Audio 3
+may order number please,0.3818,0.643,0,0.357,Positive,Audio 3
+ugh fine,-0.25,0.391,0.609,0,Negative,Audio 3
+,0,0,0,0,Neutral,Audio 3
+thank,0.3612,1,0,0,Positive,Audio 3
+appreciate patience,0.4019,0.73,0,0.27,Positive,Audio 3
+let check status order,0,0,0,1,Neutral,Audio 3
+see package currently,0,0,0,1,Neutral,Audio 3
+transit weather delays,0,0,0,1,Neutral,Audio 3
+arrive end,0,0,0,1,Neutral,Audio 3
+week,0,0,0,1,Neutral,Audio 3
+understand urgency apologise,0.3818,0.565,0,0.435,Positive,Audio 3
+inconvenience may caused,-0.3612,0,0.556,0.444,Negative,Audio 3
+totally unacceptable,-0.5095,0,0.767,0.233,Negative,Audio 3
+needed yesterday,0,0,0,1,Neutral,Audio 3
+company worst,-0.6249,0,0.804,0.196,Negative,Audio 3
+completely understand frustration apologise,-0.1317,0.347,0.41,0.243,Negative,Audio 3
+inconvenience,-0.3612,0,1,0,Negative,Audio 3
+ill contact shipping department right away,-0.4215,0,0.359,0.641,Negative,Audio 3
+ensure prioritise delivery,0.3818,0.565,0,0.435,Positive,Audio 3
+additionally ill provide regular updates via,-0.4215,0,0.359,0.641,Negative,Audio 3
+email,0,0,0,1,Neutral,Audio 3
+anything else assist,0,0,0,1,Neutral,Audio 3
+,0,0,0,0,Neutral,Audio 3
+whatever,0,0,0,1,Neutral,Audio 3
+fix,0,0,0,1,Neutral,Audio 3
+need soon possible,0,0,0,1,Neutral,Audio 3
+cant believe trusted people,-0.3724,0,0.46,0.54,Negative,Audio 3
+deliver time,0,0,0,1,Neutral,Audio 3
+ill make sure resolve issue promptly,0.2732,0.458,0.262,0.28,Positive,Audio 3
+concerns questions,0,0,0,1,Neutral,Audio 3
+please dont hesitate reach,0.466,0.665,0.174,0.162,Positive,Audio 3
+reach,0.0258,1,0,0,Neutral,Audio 3
+good,0.4404,1,0,0,Positive,Audio 3
+sorry delay,-0.3818,0,1,0,Negative,Audio 3
+occasionally experience shipment delays holiday,0.4019,0.403,0,0.597,Positive,Audio 3
+season,0,0,0,1,Neutral,Audio 3
+offer expedited shipping,0,0,0,1,Neutral,Audio 3
+makes zero sense,0,0,0,1,Neutral,Audio 3
+certainly pass along,0.34,0.545,0,0.455,Positive,Audio 3
+management team,0,0,0,1,Neutral,Audio 3
+appreciate suggestion,0.4019,0.73,0,0.27,Positive,Audio 3
+ha,0.34,1,0,0,Positive,Audio 3
+could probably run company better,0.4404,0.42,0,0.58,Positive,Audio 3
+idiots charge,0,0,0,1,Neutral,Audio 3
+anything else help,0.4019,0.574,0,0.426,Positive,Audio 3
+sir,0,0,0,1,Neutral,Audio 3
+im done,0,0,0,1,Neutral,Audio 3
+really dont want call people,-0.1281,0,0.273,0.727,Negative,Audio 3
+ever,0,0,0,1,Neutral,Audio 3
+understand frustration sir,-0.4767,0,0.608,0.392,Negative,Audio 3
+please check email updates,0.3182,0.434,0,0.566,Positive,Audio 3
+shipping department,0,0,0,1,Neutral,Audio 3
+oh ill checking,-0.4215,0,0.583,0.417,Negative,Audio 3
+thank calling single step customer,0.3612,0.385,0,0.615,Positive,Audio 3
+service,0,0,0,1,Neutral,Audio 3
+blah blah blah,-0.296,0,1,0,Negative,Audio 3
+whatever,0,0,0,1,Neutral,Audio 3
+save salutations someone else,0.4939,0.516,0,0.484,Positive,Audio 3
+thank sir,0.3612,0.714,0,0.286,Positive,Audio 3
+goodbye,0,0,0,1,Neutral,Audio 3
+good afternoon,0.4404,0.744,0,0.256,Positive,Audio 3
+thank calling single step customer service,0.3612,0.333,0,0.667,Positive,Audio 3
+name patrick,0,0,0,1,Neutral,Audio 3
+may assist today,0,0,0,1,Neutral,Audio 3
+finally,0,0,0,1,Neutral,Audio 3
+someone answers,0,0,0,1,Neutral,Audio 3
+ive overcharged bill,0,0,0,1,Neutral,Audio 3
+people,0,0,0,1,Neutral,Audio 3
+im sorry hear youre experiencing billing,-0.0772,0,0.206,0.794,Negative,Audio 3
+issues,0,0,0,1,Neutral,Audio 3
+ill best help,0.6249,0.711,0.289,0,Positive,Audio 3
+could please provide account,0.3182,0.434,0,0.566,Positive,Audio 3
+number phone number associated,0.1531,0.565,0,0.435,Positive,Audio 3
+account,0,0,0,1,Neutral,Audio 3
+ridiculous,-0.3612,0,1,0,Negative,Audio 3
+,0,0,0,0,Neutral,Audio 3
+im sorry maam,-0.0772,0,0.394,0.606,Negative,Audio 3
+phone number,0.0772,0.565,0,0.435,Positive,Audio 3
+yes,0.4019,1,0,0,Positive,Audio 3
+asked phone number,0.0772,0.394,0,0.606,Positive,Audio 3
+may also area code,0,0,0,1,Neutral,Audio 3
+,0,0,0,0,Neutral,Audio 3
+thank providing,0.3612,0.714,0,0.286,Positive,Audio 3
+may confirm last name please,0.3182,0.365,0,0.635,Positive,Audio 3
+um dont system,0,0,0,1,Neutral,Audio 3
+yes,0.4019,1,0,0,Positive,Audio 3
+however need verbal confirmation,0,0,0,1,Neutral,Audio 3
+stapleton,0,0,0,1,Neutral,Audio 3
+need spell,0,0,0,1,Neutral,Audio 3
+wont necessary ms stapleton,0,0,0,1,Neutral,Audio 3
+ill look billing discrepancy,-0.4215,0,0.483,0.517,Negative,Audio 3
+see discrepancy bill,0,0,0,1,Neutral,Audio 3
+apologise error,-0.0258,0.491,0.509,0,Neutral,Audio 3
+let correct right away,0,0,0,1,Neutral,Audio 3
+time,0,0,0,1,Neutral,Audio 3
+cant believe deal,0,0,0,1,Neutral,Audio 3
+crap,-0.3818,0,1,0,Negative,Audio 3
+going take long,0,0,0,1,Neutral,Audio 3
+take minutes,0,0,0,1,Neutral,Audio 3
+completely understand frustration appreciate,-0.1065,0.355,0.405,0.24,Negative,Audio 3
+patience,0,0,0,1,Neutral,Audio 3
+oh see billed twice,0,0,0,1,Neutral,Audio 3
+st,0,0,0,1,Neutral,Audio 3
+correct,0,0,0,1,Neutral,Audio 3
+yes st look,0.4019,0.574,0,0.426,Positive,Audio 3
+closely thing happened th,0,0,0,1,Neutral,Audio 3
+apologise billing error,-0.0258,0.413,0.429,0.159,Neutral,Audio 3
+give moment adjust,0,0,0,1,Neutral,Audio 3
+,0,0,0,0,Neutral,Audio 3
+alright ive adjusted bill reflect,0.25,0.333,0,0.667,Positive,Audio 3
+accurate charges,-0.2732,0,0.677,0.323,Negative,Audio 3
+see correction next,0,0,0,1,Neutral,Audio 3
+statement,0,0,0,1,Neutral,Audio 3
+well time people something,0.2732,0.412,0,0.588,Positive,Audio 3
+right,0,0,0,1,Neutral,Audio 3
+thank bringing attention,0.3612,0.556,0,0.444,Positive,Audio 3
+apologise inconvenience,0.0258,0.51,0.49,0,Neutral,Audio 3
+concerns questions,0,0,0,1,Neutral,Audio 3
+please feel free let know,0.6808,0.651,0,0.349,Positive,Audio 3
+value feedback,0.34,0.706,0,0.294,Positive,Audio 3
+yeah feedback company,0.296,0.524,0,0.476,Positive,Audio 3
+buy better billing system wont,0.4404,0.42,0,0.58,Positive,Audio 3
+call correct mistakes,-0.3612,0,0.556,0.444,Negative,Audio 3
+pass along team,0,0,0,1,Neutral,Audio 3
+anything else assist,0,0,0,1,Neutral,Audio 3
+today,0,0,0,1,Neutral,Audio 3
+fix stupid computer glitch,-0.5267,0,0.531,0.469,Negative,Audio 3
+word glitch meaning,0,0,0,1,Neutral,Audio 3
+malfunction sudden error,-0.4019,0,0.574,0.426,Negative,Audio 3
+look issue ensure,0.3818,0.565,0,0.435,Positive,Audio 3
+doesnt happen,0,0,0,1,Neutral,Audio 3
+yeah would awfully nice since,0.6478,0.638,0,0.362,Positive,Audio 3
+better things,0.4404,0.744,0,0.256,Positive,Audio 3
+fully aware ms stapleton,0,0,0,1,Neutral,Audio 3
+hope provide better service,0.7003,0.744,0,0.256,Positive,Audio 3
+future,0,0,0,1,Neutral,Audio 3
+well better take,0.6124,0.833,0,0.167,Positive,Audio 3
+business elsewhere,0,0,0,1,Neutral,Audio 3
+understand im saying,0,0,0,1,Neutral,Audio 3
+understand maam,0,0,0,1,Neutral,Audio 3
+anything else help,0.4019,0.574,0,0.426,Positive,Audio 3
+today,0,0,0,1,Neutral,Audio 3
+done,0,0,0,1,Neutral,Audio 3
+think ive made point,0,0,0,1,Neutral,Audio 3
+thank singlestep,0.3612,0.714,0,0.286,Positive,Audio 3
+customer,0,0,0,1,Neutral,Audio 3
+yeah hope people appreciate,0.7783,0.886,0,0.114,Positive,Audio 3
+certainly,0.34,1,0,0,Positive,Audio 3
+nice day,0.4215,0.737,0,0.263,Positive,Audio 3
+yeah right,0.296,0.688,0,0.312,Positive,Audio 3
+goodbye,0,0,0,1,Neutral,Audio 3
+remember watch roleplay videos,0,0,0,1,Neutral,Audio 3
